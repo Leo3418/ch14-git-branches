@@ -2,6 +2,7 @@
 In this exercise, you'll practice resolving a merge conflict.
 
 > "..."
+> Warning!
 
 To complete the exercise, follow the below steps:
 
